@@ -31,7 +31,7 @@ console.log('Digite a instrução que imprime o valor de feijao, que está na va
 console.log(comida[1]);
 
 console.log('Digite o código que verifica se a variável soma é igual a variável `myvar` (testando também o tipo).');
-console.log(soma == myvar);
+console.log(soma === myvar);
 
 console.log('Digite o código que verifica se a variável `myvar` é menor ou igual à variável `soma`.');
 console.log(myvar <= soma);
